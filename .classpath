@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="TAR_INTRO02_G/src"/>
+	<classpathentry kind="src" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_A/src"/>
+	<classpathentry kind="src" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_B/src"/>
+	<classpathentry kind="src" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_C/src"/>
+	<classpathentry kind="src" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_D/src"/>
+	<classpathentry kind="src" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_E/src"/>
+	<classpathentry kind="src" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_F/src"/>
+	<classpathentry kind="src" path="ut9sockets-main/ut9sockets-main/TAR_INTRO04/src"/>
+	<classpathentry kind="lib" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_F/libs/commandline-value-source-0.1.0.jar"/>
+	<classpathentry kind="lib" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_F/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="ut9sockets-main/ut9sockets-main/TAR_INTRO02_F/libs/schemacrawler-commandline-16.19.11.jar"/>
+	<classpathentry kind="output" path="TAR_INTRO02_G/bin"/>
+</classpath>
